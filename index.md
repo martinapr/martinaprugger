@@ -1,5 +1,10 @@
 ## Welcome to Martina Pruggers Pages
 
+## Career & Education
+
+### Academic Degrees
+- 2017 PhD in Mathematics, University of Innsbruck
+
 
 
 ## Publications
