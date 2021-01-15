@@ -5,6 +5,6 @@ You can use the [editor on GitHub](https://github.com/martinapr/martinaprugger/e
 
 ## Publications
 
-# Preprints
+### Preprints
 
-# Papers
+### Papers
