@@ -1,6 +1,8 @@
 ## Welcome to Martina Pruggers Pages
 
-## Career & Education
+## Research Interests
+
+## Professional Experience
 
 ### Academic Degrees
 - 2017 PhD in Mathematics, University of Innsbruck
@@ -23,3 +25,6 @@
 - Kurganov, A., Prugger, M., & Wu, T. (2017). Second-order fully discrete central-upwind scheme for two-dimensional hyperbolic systems of conservation laws. Siam Journal on Scientific Computing, 39(3), A947-A965.
 
 - Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40.
+
+
+## Honors and Awards
