@@ -6,6 +6,8 @@
 
 ### Academic Degrees
 - 2017 PhD in Mathematics, University of Innsbruck
+- 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
+- 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
 
 
 
@@ -25,6 +27,14 @@
 - Kurganov, A., Prugger, M., & Wu, T. (2017). Second-order fully discrete central-upwind scheme for two-dimensional hyperbolic systems of conservation laws. Siam Journal on Scientific Computing, 39(3), A947-A965.
 
 - Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40.
+
+### Theses
+- PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures
+This thesis is part of the Vienna Scientific Cluster (VSC) school and of the Doctoral Program: Computational Interdisciplinary Modeling (DK CIM) of the University of Innsbruck
+
+- Master Thesis: Investigation of different splitting methods for the evolution of turbulences in astrophysical fluids
+
+- Bachelor Thesis: Network analysis of scientific publications
 
 
 ## Honors and Awards
