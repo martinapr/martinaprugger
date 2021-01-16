@@ -13,13 +13,10 @@
 
 ## Publications
 
-### Preprints
-- Prugger, M., Einkemmer, L., Beik, S. P., Harris, L. A., & Lopez, C. F. (2020). Unsupervised logic-based mechanism inference for network-driven biological processes. bioRxiv.
+- Prugger, M., Einkemmer, L., Beik, S. P., Harris, L. A., & Lopez, C. F. (2020). Unsupervised logic-based mechanism inference for network-driven biological processes. [bioRxiv](https://doi.org/10.1101/2020.12.15.422874).
 
-- Pino, J. C., Prugger, M., Lubbock, A. L. R., Harris, L. A., & Lopez, C. F. (2020). Accelerated Simulations of Chemical Reaction Systems using the Stochastic Simulation Algorithm on GPUs. bioRxiv.
+- Pino, J. C., Prugger, M., Lubbock, A. L. R., Harris, L. A., & Lopez, C. F. (2020). Accelerated Simulations of Chemical Reaction Systems using the Stochastic Simulation Algorithm on GPUs. [bioRxiv](https://doi.org/10.1101/2020.02.14.948612).
 
-
-### Papers
 - Lagravière, J., Langguth, J., Prugger, M., Einkemmer, L., Ha, P. H., & Cai, X. (2019). Performance optimization and modeling of fine-grained irregular communication in UPC. Scientific Programming, 2019.
 
 - Crouseilles, N., Einkemmer, L., & Prugger, M. (2018). An exponential integrator for the drift-kinetic model. Computer Physics Communications, 224, 144-153.
