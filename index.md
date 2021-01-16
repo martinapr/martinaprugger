@@ -17,13 +17,13 @@
 
 - Pino, J. C., Prugger, M., Lubbock, A. L. R., Harris, L. A., & Lopez, C. F. (2020). Accelerated Simulations of Chemical Reaction Systems using the Stochastic Simulation Algorithm on GPUs. [bioRxiv](https://doi.org/10.1101/2020.02.14.948612).
 
-- Lagravière, J., Langguth, J., Prugger, M., Einkemmer, L., Ha, P. H., & Cai, X. (2019). Performance optimization and modeling of fine-grained irregular communication in UPC. Scientific Programming, 2019.
+- Lagravière, J., Langguth, J., Prugger, M., Einkemmer, L., Ha, P. H., & Cai, X. (2019). Performance optimization and modeling of fine-grained irregular communication in UPC. Scientific Programming, 2019. [DOI](https://doi.org/10.1155/2019/6825728)
 
-- Crouseilles, N., Einkemmer, L., & Prugger, M. (2018). An exponential integrator for the drift-kinetic model. Computer Physics Communications, 224, 144-153.
+- Crouseilles, N., Einkemmer, L., & Prugger, M. (2018). An exponential integrator for the drift-kinetic model. Computer Physics Communications, 224, 144-153. [DOI](https://doi.org/10.1016/j.cpc.2017.11.003)
 
-- Kurganov, A., Prugger, M., & Wu, T. (2017). Second-order fully discrete central-upwind scheme for two-dimensional hyperbolic systems of conservation laws. Siam Journal on Scientific Computing, 39(3), A947-A965.
+- Kurganov, A., Prugger, M., & Wu, T. (2017). Second-order fully discrete central-upwind scheme for two-dimensional hyperbolic systems of conservation laws. Siam Journal on Scientific Computing, 39(3), A947-A965. [DOI](https://doi.org/10.1137/15M1038670)
 
-- Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40.
+- Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40. [DOI](https://doi.org/10.1016/j.parco.2016.11.001)
 
 ### Theses
 - PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures
