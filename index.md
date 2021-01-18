@@ -4,10 +4,10 @@
 
 [//]: # ## Professional Experience
 
-[//]: # ### Academic Degrees
-[//]: # - 2017 PhD in Mathematics, University of Innsbruck
-[//]: # - 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
-[//]: # - 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
+### Academic Degrees
+- 2017 PhD in Mathematics, University of Innsbruck
+- 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
+- 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
 
 
 
