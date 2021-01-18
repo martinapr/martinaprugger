@@ -1,13 +1,13 @@
 ## Welcome to Martina Pruggers Pages
 
-## Research Interests
+[//]: # ## Research Interests
 
-## Professional Experience
+[//]: # ## Professional Experience
 
-### Academic Degrees
-- 2017 PhD in Mathematics, University of Innsbruck
-- 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
-- 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
+[//]: # ### Academic Degrees
+[//]: # - 2017 PhD in Mathematics, University of Innsbruck
+[//]: # - 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
+[//]: # - 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
 
 
 
@@ -25,6 +25,8 @@
 
 - Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40. [DOI](https://doi.org/10.1016/j.parco.2016.11.001)
 
+- Lagraviere, J. A. E., Prugger, M., Einkemmer, L., Langguth, J., Ha, H. P., & Cai, X. (2016). Implementing and optimizing a Sparse Matrix-Vector Multiplication with UPC.
+
 ### Theses
 - PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures
 This thesis is part of the Vienna Scientific Cluster (VSC) school and of the Doctoral Program: Computational Interdisciplinary Modeling (DK CIM) of the University of Innsbruck
@@ -34,4 +36,4 @@ This thesis is part of the Vienna Scientific Cluster (VSC) school and of the Doc
 - Bachelor Thesis: Network analysis of scientific publications
 
 
-## Honors and Awards
+[//]: # ## Honors and Awards
