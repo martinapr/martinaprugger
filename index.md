@@ -7,7 +7,6 @@
 - 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
 
 
-
 ## Publications
 
 - Prugger, M., Einkemmer, L., Beik, S. P., Harris, L. A., & Lopez, C. F. (2020). Unsupervised logic-based mechanism inference for network-driven biological processes. [bioRxiv](https://doi.org/10.1101/2020.12.15.422874).
