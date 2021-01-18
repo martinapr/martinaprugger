@@ -1,8 +1,5 @@
 ## Welcome to Martina Pruggers Pages
 
-[//]: # ## Research Interests
-
-[//]: # ## Professional Experience
 
 ### Academic Degrees
 - 2017 PhD in Mathematics, University of Innsbruck
@@ -35,5 +32,3 @@ This thesis is part of the Vienna Scientific Cluster (VSC) school and of the Doc
 
 - Bachelor Thesis: Network analysis of scientific publications
 
-
-[//]: # ## Honors and Awards
