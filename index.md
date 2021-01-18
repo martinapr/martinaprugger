@@ -21,7 +21,7 @@
 
 - Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40. [DOI](https://doi.org/10.1016/j.parco.2016.11.001)
 
-- Lagraviere, J. A. E., Prugger, M., Einkemmer, L., Langguth, J., Ha, H. P., & Cai, X. (2016). Implementing and optimizing a Sparse Matrix-Vector Multiplication with UPC.
+- Lagraviere, J. A. E., Prugger, M., Einkemmer, L., Langguth, J., Ha, H. P., & Cai, X. (2016). Implementing and optimizing a Sparse Matrix-Vector Multiplication with UPC. [Link](https://munin.uit.no/handle/10037/10205)
 
 ### Theses
 - PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures
