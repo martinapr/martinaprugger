@@ -9,7 +9,7 @@
 
 ## Publications
 
-- Prrugger M., Einkemmer L., Beik S. P., Wasdin P. T., Harris L. A., Lopez C. F. (2021) Unsupervised logic-based mechanism inference for network-driven biological processes. PLoS Comput Biol 17(6): e1009035. [DOI](https://doi.org/10.1371/journal.pcbi.1009035)
+- Prugger M., Einkemmer L., Beik S. P., Wasdin P. T., Harris L. A., Lopez C. F. (2021) Unsupervised logic-based mechanism inference for network-driven biological processes. PLoS Comput Biol 17(6): e1009035. [DOI](https://doi.org/10.1371/journal.pcbi.1009035)
 
 - Pino, J. C., Prugger, M., Lubbock, A. L. R., Harris, L. A., & Lopez, C. F. (2020). Accelerated Simulations of Chemical Reaction Systems using the Stochastic Simulation Algorithm on GPUs. [bioRxiv](https://doi.org/10.1101/2020.02.14.948612).
 
