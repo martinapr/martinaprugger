@@ -8,6 +8,7 @@
 
 
 ## Publications
+- Prugger M., Einkemmer L., Lopez C. F. (2022) A dynamical low-rank approach to solve the chemical master equation for biological reaction networks. [bioRxiv](https://doi.org/10.1101/2022.05.04.490585).
 
 - Prugger M., Einkemmer L., Beik S. P., Wasdin P. T., Harris L. A., Lopez C. F. (2021) Unsupervised logic-based mechanism inference for network-driven biological processes. PLoS Comput Biol 17(6): e1009035. [DOI](https://doi.org/10.1371/journal.pcbi.1009035)
 
