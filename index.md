@@ -27,7 +27,7 @@
 - Lagraviere, J. A. E., Prugger, M., Einkemmer, L., Langguth, J., Ha, H. P., & Cai, X. (2016). Implementing and optimizing a Sparse Matrix-Vector Multiplication with UPC. [Link](https://munin.uit.no/handle/10037/10205)
 
 ### Theses
-- PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures
+- PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures \\
 This thesis is part of the Vienna Scientific Cluster (VSC) school and of the Doctoral Program: Computational Interdisciplinary Modeling (DK CIM) of the University of Innsbruck
 
 - Master Thesis: Investigation of different splitting methods for the evolution of turbulences in astrophysical fluids
