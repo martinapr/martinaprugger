@@ -12,6 +12,8 @@
 
 - Prugger M., Einkemmer L., Beik S. P., Wasdin P. T., Harris L. A., Lopez C. F. (2021) Unsupervised logic-based mechanism inference for network-driven biological processes. PLoS Comput Biol 17(6): e1009035. [DOI](https://doi.org/10.1371/journal.pcbi.1009035)
 
+- Lagravière, J., Langguth, J., Prugger, M., Ha, P. H., & Cai, X.(2021) A Newcomer In The PGAS World--UPC++ vs UPC: A Comparative Study. [arXiv](https://doi.org/10.48550/arXiv.2102.03614).
+
 - Pino, J. C., Prugger, M., Lubbock, A. L. R., Harris, L. A., & Lopez, C. F. (2020). Accelerated Simulations of Chemical Reaction Systems using the Stochastic Simulation Algorithm on GPUs. [bioRxiv](https://doi.org/10.1101/2020.02.14.948612).
 
 - Lagravière, J., Langguth, J., Prugger, M., Einkemmer, L., Ha, P. H., & Cai, X. (2019). Performance optimization and modeling of fine-grained irregular communication in UPC. Scientific Programming, 2019. [DOI](https://doi.org/10.1155/2019/6825728)
