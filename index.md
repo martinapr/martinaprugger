@@ -8,6 +8,9 @@
 
 
 ## Publications
+- Einkemmer, L., Mangott, J., Prugger, M. (2023) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. [arXiv](
+https://doi.org/10.48550/arXiv.2309.08252).
+  
 - Prugger M., Einkemmer L., Lopez C. F. (2022) A dynamical low-rank approach to solve the chemical master equation for biological reaction networks. Journal of Computational Physics, 112250. [DOI](https://doi.org/10.1016/j.jcp.2023.112250)
 
 - Prugger M., Einkemmer L., Beik S. P., Wasdin P. T., Harris L. A., Lopez C. F. (2021) Unsupervised logic-based mechanism inference for network-driven biological processes. PLoS Comput Biol 17(6): e1009035. [DOI](https://doi.org/10.1371/journal.pcbi.1009035)
