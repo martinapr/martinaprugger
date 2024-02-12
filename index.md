@@ -8,8 +8,8 @@
 
 
 ## Publications
-- Einkemmer, L., Mangott, J., Prugger, M. (2023) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. [arXiv](
-https://doi.org/10.48550/arXiv.2309.08252).
+- Einkemmer, L., Mangott, J., Prugger, M. (2024) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. Journal of Computational Physics, 112827. [DOI](https://doi.org/10.1016/j.jcp.2024.112827)
+
   
 - Prugger M., Einkemmer L., Lopez C. F. (2023) A dynamical low-rank approach to solve the chemical master equation for biological reaction networks. Journal of Computational Physics, 112250. [DOI](https://doi.org/10.1016/j.jcp.2023.112250)
 
