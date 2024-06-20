@@ -24,10 +24,10 @@
 
 
 ### Experience
-- Since 2024: PostDoc at Numerical Methods for Plasma Physics, Max Planck Institute for Plasma Physics
-- 2020 - 2023: Senior Scientist in Data Science at the Department of Biochemistry, University of Innsbruck
-- 2018 - 2020: PostDoc at the Department of Biochemistry, Vanderbilt University
-- 2013 - 2017: PhD Student in Numerical Mathematics with focus on High Performance Computing at the Department of Mathematics, University of Innsbruck
+- Since 2024: PostDoc, Numerical Methods for Plasma Physics, Max Planck Institute for Plasma Physics
+- 2020 - 2023: Senior Scientist in Data Science, Department of Biochemistry, University of Innsbruck
+- 2018 - 2020: PostDoc, Department of Biochemistry, Vanderbilt University
+- 2013 - 2017: PhD Student in Numerical Mathematics with focus on High Performance Computing, Department of Mathematics, University of Innsbruck
 
 ### Academic Degrees
 - 2017 PhD in Mathematics, University of Innsbruck
