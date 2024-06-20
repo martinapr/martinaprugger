@@ -1,12 +1,5 @@
 ## Welcome to Martina Pruggers Pages
 
-
-### Academic Degrees
-- 2017 PhD in Mathematics, University of Innsbruck
-- 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
-- 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
-
-
 ## Publications
 - Einkemmer, L., Mangott, J., Prugger, M. (2024) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. Journal of Computational Physics, 112827. [DOI](https://doi.org/10.1016/j.jcp.2024.112827)
 
@@ -28,6 +21,18 @@
 - Prugger, M., Einkemmer, L., & Ostermann, A. (2016). Evaluation of the partitioned global address space (PGAS) model for an inviscid Euler solver. Parallel Computing, 60, 22-40. [DOI](https://doi.org/10.1016/j.parco.2016.11.001)
 
 - Lagraviere, J. A. E., Prugger, M., Einkemmer, L., Langguth, J., Ha, H. P., & Cai, X. (2016). Implementing and optimizing a Sparse Matrix-Vector Multiplication with UPC. [Link](https://munin.uit.no/handle/10037/10205)
+
+
+### Experience
+- Since 2024: PostDoc at Numerical Methods for Plasma Physics, Max Planck Institute for Plasma Physics
+- 2020 - 2023: Senior Scientist in Data Science at the Department of Biochemistry, University of Innsbruck
+- 2018 - 2020: PostDoc at the Department of Biochemistry, Vanderbilt University
+- 2013 - 2017: PhD Student in Numerical Mathematics with focus on High Performance Computing at the Department of Mathematics, University of Innsbruck
+
+### Academic Degrees
+- 2017 PhD in Mathematics, University of Innsbruck
+- 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
+- 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
 
 ### Theses
 - PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures <br/>
