@@ -25,14 +25,21 @@
 
 ### Experience
 - Since 2024: PostDoc, Numerical Methods for Plasma Physics, Max Planck Institute for Plasma Physics
+
 - 2020 - 2023: Senior Scientist in Data Science, Department of Biochemistry, University of Innsbruck
+
 - 2018 - 2020: PostDoc, Department of Biochemistry, Vanderbilt University
+  
 - 2013 - 2017: PhD Student in Numerical Mathematics with focus on High Performance Computing, Department of Mathematics, University of Innsbruck
+
 
 ### Academic Degrees
 - 2017 PhD in Mathematics, University of Innsbruck
+  
 - 2013 Dipl.-Ing. in Technical Mathematics (Master Program), University of Innsbruck
+  
 - 2010 Bakk.rer.soc.oec in Statistics, University of Vienna
+
 
 ### Theses
 - PhD Thesis: High-resolution numerical schemes for hyperbolic conservation laws, and their performance on modern HPC architectures <br/>
