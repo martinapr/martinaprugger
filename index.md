@@ -1,7 +1,7 @@
 ## Welcome to Martina Pruggers Pages
 
 ## Publications
-- Einkemmer, L., Mangott, J., Prugger, M. (2024) A hierarchical dynamical low-rank algorithm for the stochastic description of large reaction networks. [arXiv](https://arxiv.org/abs/2407.11792)
+- Einkemmer, L., Mangott, J., Prugger, M. (2024) A hierarchical dynamical low-rank algorithm for the stochastic description of large reaction networks. [arXiv](https://doi.org/10.48550/arXiv.2407.11792)
   
 - Einkemmer, L., Mangott, J., Prugger, M. (2024) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. Journal of Computational Physics, 112827. [DOI](https://doi.org/10.1016/j.jcp.2024.112827)
   
