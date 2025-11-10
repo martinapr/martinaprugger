@@ -1,6 +1,9 @@
 ## Welcome to Martina Pruggers Pages
 
 ## Publications
+- Clark, P., Timpen, L. E., Heberle, A., Prugger, M., van Eunen, K., Rehbein, U., Thedieck, K., Shanley, D. P. (2025) Collective parameter estimation of related models with an initial stability constraint. [bioRxiv](
+https://doi.org/10.1101/2025.11.07.684636)
+
 - Einkemmer, L., Mangott, J., Prugger, M. (2025) Automatic partitioning for the low-rank integration of stochastic Boolean reaction networks. [arXiv](
 https://doi.org/10.48550/arXiv.2501.04157)
 
