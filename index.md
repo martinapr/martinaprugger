@@ -1,12 +1,12 @@
 ## Welcome to Martina Pruggers Pages
 
 ## Publications
+- Einkemmer, L., Mangott, J., Prugger, M. (2026) A Hierarchical Dynamical Low-Rank Algorithm for the Stochastic Description of Large Reaction Networks. SIAM Journal on Scientific Computing 48 (4), B598-B628 [DOI](https://doi.org/10.1137/24M1685717)
+
 - Einkemmer, L., Mangott, J., Prugger, M. (2025) Automatic partitioning for the low-rank integration of stochastic Boolean reaction networks. Journal of Scientific Computing, 105(3), 93. [DOI](https://doi.org/10.1007/s10915-025-03078-7)
   
 - Clark, P., Timpen, L. E., Heberle, A., Prugger, M., van Eunen, K., Rehbein, U., Thedieck, K., Shanley, D. P. (2025) Collective parameter estimation of related models with an initial stability constraint. [bioRxiv](
 https://doi.org/10.1101/2025.11.07.684636)
-
-- Einkemmer, L., Mangott, J., Prugger, M. (2024) A hierarchical dynamical low-rank algorithm for the stochastic description of large reaction networks. [arXiv](https://doi.org/10.48550/arXiv.2407.11792)
   
 - Einkemmer, L., Mangott, J., Prugger, M. (2024) A low-rank complexity reduction algorithm for the high-dimensional kinetic chemical master equation. Journal of Computational Physics, 112827. [DOI](https://doi.org/10.1016/j.jcp.2024.112827)
   
